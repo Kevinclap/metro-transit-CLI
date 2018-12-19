@@ -1,6 +1,7 @@
 # metro-transit-CLI
 
 Command Line Interface that given a Bus Route, Bus Stop Name and a Direction, will return the next bus' arrival time.
+This was implemented using the [Metro Transit API](http://svc.metrotransit.org/)
 
 ### Requirements
 To run this project you'll need to install:
